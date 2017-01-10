@@ -10,7 +10,7 @@
 |---|---|
 |Node.js|v6.7.0|
 
-### npm list --global --depth=0
+### npmでグローバルにインストールするパッケージ（npm list --global --depth=0）
 
 ```
 ├── browserify@13.1.1
