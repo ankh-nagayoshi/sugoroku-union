@@ -2,7 +2,7 @@
 
 ## Github Pages
 
-[https://e-kichi.github.io/sugoroku-union/](https://e-kichi.github.io/sugoroku-union/)
+[https://ankh-nagayoshi.github.io/sugoroku-union/](https://ankh-nagayoshi.github.io/sugoroku-union/)
 
 ## 動作環境
 
